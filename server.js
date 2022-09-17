@@ -25,4 +25,8 @@ app.listen(3001);
 
 console.log('Server running at http://locahost:3001');
 
+//<<<<<<< HEAD
 //diferente
+//=======
+//testtesttesttesttest
+//>>>>>>> 91369b8951793f3bcb752a1ce249c59c4b511151
